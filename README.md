@@ -29,7 +29,6 @@ I build intelligent systems and explore the boundaries of AI. My focus is on pra
 - 🤖 **[Deep Learning Demos](#)** – Neural networks and DL architectures  
 - 🔗 **[LangChain Utilities](#)** – Custom utilities built on top of LangChain  
 
-*(links can be added once you upload repos)*  
 
 ---
 
