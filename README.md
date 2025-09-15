@@ -33,9 +33,8 @@ I build intelligent systems and explore the boundaries of AI. My focus is on pra
 ---
 
 ## 📫 Connect With Me
-- GitHub: [Sohaib](https://github.com/sohaibharoooon)  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sohaibharoon/)
-- X: [x](https://x.com/Sohaibharooon) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sohaibharooon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaibharoon/) 
 
 ---
 
